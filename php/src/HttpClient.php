@@ -9,6 +9,6 @@ class HttpClient
         //@todo call actual (free) api
         //although real APIs are going to return fluctuating rates too
 
-        return rand(0, 2);
+        return rand(0, 2000) / 1000;
     }
 }
