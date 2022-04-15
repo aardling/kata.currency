@@ -1,6 +1,6 @@
 # kata.currency
 
-refactor the given with Domain-Driven Design patterns, principles and practices in mind
+refactor the given code with Domain-Driven Design patterns, principles and practices in mind  
 commit regularly, to be able to show your progress later on
 
 ## runtimes
